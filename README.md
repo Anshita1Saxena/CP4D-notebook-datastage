@@ -36,7 +36,7 @@ Analytics Project holds the data connectors for IBM COS and DB2.
 2. Loading and storing data in s3 buckets.
 3. Integration between Analytics and Data Transformation Project using APIs.
 
-## Demo Screenshot Details
+## Demo Screenshots
 The output of the functionality can be seen through Analytics notebook.
 ![IBM JUPYTER NOTEBOOK SCREENSHOT](https://github.com/Anshita1Saxena/CP4D-notebook-datastage/blob/main/demo-image/Jupyter%20Notebook%20Screenshot.JPG)
 
